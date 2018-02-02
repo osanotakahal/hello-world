@@ -1,6 +1,7 @@
 # hello-world
 練習用
 hello-world
+<<<<<<< HEAD
 hello-world
 <<<<<<< HEAD
 hello-git
@@ -34,3 +35,28 @@ hello-world
 hello-world
 hello-world
 >>>>>>> sub
+=======
+hello-git
+hello-git
+hello-git
+hello-git
+hello-git
+hello-git
+hello-git
+hello-git
+hello-git
+hello-git
+hello-git
+hello-git
+hello-git
+hello-git
+hello-git
+hello-git
+hello-git
+hello-git
+hello-git
+hello-git
+hello-git
+hello-git
+hello-git
+>>>>>>> sub2
